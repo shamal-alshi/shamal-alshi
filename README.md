@@ -1,14 +1,14 @@
 <div align="center">
 
-  <!-- Dynamic Animated Waving Banner (Vibrant Sky / Indigo / Violet gradient - pops on both Light & Dark mode) -->
+  <!-- Dynamic Animated Waving Banner (Vibrant Sky / Indigo / Violet gradient) -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,50:6366f1,100:a855f7&height=140&section=header" width="100%" />
 
-  <!-- Smooth Animated Typing Title (Directly attached to banner with no awkward gap or horizontal lines) -->
+  <!-- Smooth Animated Typing Title -->
   <a href="https://github.com/shamal-alshi">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=2500&pause=1000&color=6366F1&center=true&vCenter=true&width=650&height=50&lines=Shamal+Alshi;Senior+Frontend+Engineer;Angular+Specialist" alt="Typing SVG" />
   </a>
 
-  <!-- Clean Social Badges -->
+  <!-- Social & Contact Badges -->
   <p align="center">
     <a href="https://linkedin.com/in/shamal-alshi" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="28" alt="LinkedIn" />
@@ -29,44 +29,56 @@
 
 ### ⚡ What I Do
 
-I build, untangle, and scale enterprise web applications in banking and energy platforms where downtime isn't an option:
+I'm a **Senior Frontend Engineer** with **5+ years of experience** specializing in the **Angular** ecosystem. I turn complex requirements into clean, scalable, and responsive user experiences:
 
-* **Zero-Downtime Upgrades:** Led framework modernizations on live 24/7 mission-critical systems (including Citi Bank's fraud management engine from Angular 8 → 20, and 35 production modules from v12 → v18 at Hitachi Energy) with zero downtime and no emergency rollbacks.
-* **Taming Dashboard Lag:** Slashed enterprise dashboard load times from 20s down to ~2s through `OnPush` change detection, eliminating unnecessary render cycles, and aggressive lazy loading.
-* **Modern Reactivity:** In the sweet spot between RxJS async streams and Angular Signals—using signals for fine-grained UI reactivity while keeping RxJS for complex async coordination (without the subscription leaks).
-* **Enterprise Architecture:** Built centralized HTTP interceptor layers standardizing 100+ microservice endpoints, dynamic reactive form engines, and multi-tenant RBAC route guards across global teams.
+* 🧩 **End-to-End Feature Development:** Taking business requirements, user flows, and Figma designs from concept to production-ready, performant frontend features.
+* 🔄 **Reactive UI Architecture:** Designing clean, predictable state and data flows by combining the power of **Angular Signals**, **RxJS observables**, and **NgRx**.
+* 🚀 **Framework Modernization & Migrations:** Leading version migrations across major Angular releases, modernizing architecture patterns, and keeping codebases maintainable without disrupting users.
+* 🏎️ **Performance & Code Quality:** Building snappy web applications using `OnPush` change detection, lazy loading, and modular component design.
 
 ---
 
-### 🛠️ Architecture & Technical Ecosystem
+### 🛠️ Core Skills & Ecosystem
 
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h4>⚡ Core Framework & Languages</h4>
-      <code>Angular</code> · <code>TypeScript</code> · <code>JavaScript (ES6+)</code> · <code>HTML5</code> · <code>SCSS</code> · <code>Tailwind CSS</code>
+      <h4>⚡ Angular Core</h4>
+      <code>Angular</code> · <code>Angular Signals</code> · <code>RxJS</code> · <code>NgRx</code>
       <br/><br/>
-      <small>Dependency Injection · Reactive Forms · Template-Driven Forms · Custom Directives & Pipes · Angular CDK · Angular Material · Figma-to-Code</small>
+      • <strong>Reactive Forms</strong> & Dynamic Validation<br/>
+      • <strong>Dependency Injection</strong> & Services<br/>
+      • <strong>Custom Directives</strong> & Pipes<br/>
+      • <strong>Angular Material</strong> & <strong>Angular CDK</strong>
     </td>
     <td width="50%" valign="top">
-      <h4>🔄 Reactivity & State Management</h4>
-      <code>Angular Signals</code> · <code>RxJS (Operators & Streams)</code> · <code>NgRx (Store, Effects, Selectors)</code>
+      <h4>🎨 Frontend & Web</h4>
+      <code>TypeScript</code> · <code>JavaScript (ES6+)</code> · <code>HTML5</code> · <code>CSS3</code>
       <br/><br/>
-      <small>Declarative Event Streams · Signal Stores · Multi-view Shared State · Async State Synchronization · Memory Leak Prevention</small>
+      • <strong>Tailwind CSS</strong> & <strong>SCSS / SASS</strong><br/>
+      • <strong>Figma-to-Code</strong> Implementation<br/>
+      • <strong>Responsive & Mobile-First Design</strong><br/>
+      • <strong>Component Library</strong> Development
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h4>🛡️ Architecture & Security</h4>
-      <code>Microfrontends</code> · <code>Module Federation</code> · <code>HTTP Interceptors</code>
+      <h4>🏛️ Architecture & Routing</h4>
+      <code>HTTP Interceptors</code> · <code>Route Guards</code> · <code>RBAC</code>
       <br/><br/>
-      <small>RBAC Route Guards · JWT Lifecycle Management · REST & Microservices · WebSockets · Multi-Tenant Architecture</small>
+      • <strong>Microfrontends</strong> & Module Federation<br/>
+      • <strong>REST API</strong> & WebSocket Integration<br/>
+      • <strong>Role-Based Access Control (RBAC)</strong><br/>
+      • <strong>Authentication & Token Management</strong>
     </td>
     <td width="50%" valign="top">
       <h4>🏎️ Performance & Quality</h4>
-      <code>OnPush Change Detection</code> · <code>Lazy Loading</code> · <code>Core Web Vitals</code>
+      <code>OnPush Change Detection</code> · <code>Lazy Loading</code>
       <br/><br/>
-      <small>NgOptimizedImage · Bundle Splitting & Tree-Shaking · SonarQube Remediation · Unit Testing (Jest, Karma, Jasmine)</small>
+      • <strong>Core Web Vitals</strong> Optimization<br/>
+      • <strong>NgOptimizedImage</strong> & Asset Loading<br/>
+      • <strong>Bundle Analysis</strong> & Code Splitting<br/>
+      • <strong>Unit Testing</strong> (Jest, Jasmine, Karma)
     </td>
   </tr>
 </table>
